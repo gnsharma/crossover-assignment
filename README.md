@@ -1,3 +1,5 @@
+This project source code is available on [my github repo](https://github.com/gnsharma/crossover-assignment), and you can demo it [here](https://thirsty-knuth-54e702.netlify.app/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
