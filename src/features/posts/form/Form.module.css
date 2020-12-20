@@ -1,0 +1,9 @@
+.form {
+  display: flex;
+  align-items: flex-start;
+  width: 50%;
+}
+
+.inputText {
+  flex-grow: 1;
+}
